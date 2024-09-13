@@ -28,10 +28,13 @@ Abre el archivo app.js y reemplaza '3481cda6aa1b4a4a89132da25c4b6e5d' con tu cla
 javascript
 Copiar código
 const apiKey = 'TU_CLAVE_API'; // Reemplaza con tu clave de API
+
 Estructura del Proyecto
 index.html: El archivo principal HTML que contiene la estructura de la página.
 app.js: Contiene el código JavaScript que interactúa con la API de RAWG para buscar y mostrar juegos.
+
 Recursos
 Documentación de la API de RAWG
+
 Licencia
 Este proyecto es de uso libre.
